@@ -5,4 +5,4 @@ My name is Mugdha Behere. I am a Software Engineer.
 📫 How to reach me LinkedIn: https://www.linkedin.com/in/mugdhabehere, Gmail: mugdharbehere@gmail.com
 
 
-[![@MugdhaBehere's Holopin Board](https://holopin.me/mugdhabehere)](https://holopin.io/@mugdhabehere#badges)
+[![@MugdhaBehere's Holopin Board](https://holopin.me/mugdhabehere)](https://holopin.io/@mugdhabehere)
